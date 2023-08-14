@@ -1,5 +1,5 @@
+If data is not loading then open Network Tab in inspect
 Debouncing: 
-
 
 typing slow = 200ms
 typing fast = 30ms
